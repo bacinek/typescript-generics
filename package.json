@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "name": "typescript-generics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
